@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vezdekod/static/css/main.e3730f79.chunk.css",
+    "main.js": "/vezdekod/static/js/main.c3026dbf.chunk.js",
+    "main.js.map": "/vezdekod/static/js/main.c3026dbf.chunk.js.map",
+    "runtime-main.js": "/vezdekod/static/js/runtime-main.df521c9a.js",
+    "runtime-main.js.map": "/vezdekod/static/js/runtime-main.df521c9a.js.map",
+    "static/css/2.09e62520.chunk.css": "/vezdekod/static/css/2.09e62520.chunk.css",
+    "static/js/2.d72f8429.chunk.js": "/vezdekod/static/js/2.d72f8429.chunk.js",
+    "static/js/2.d72f8429.chunk.js.map": "/vezdekod/static/js/2.d72f8429.chunk.js.map",
+    "index.html": "/vezdekod/index.html",
+    "precache-manifest.fcbe56de44f2411b58a2df6ed99f42ce.js": "/vezdekod/precache-manifest.fcbe56de44f2411b58a2df6ed99f42ce.js",
+    "service-worker.js": "/vezdekod/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/vezdekod/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.e3730f79.chunk.css.map": "/vezdekod/static/css/main.e3730f79.chunk.css.map",
+    "static/js/2.d72f8429.chunk.js.LICENSE.txt": "/vezdekod/static/js/2.d72f8429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df521c9a.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.d72f8429.chunk.js",
+    "static/css/main.e3730f79.chunk.css",
+    "static/js/main.c3026dbf.chunk.js"
+  ]
+}
