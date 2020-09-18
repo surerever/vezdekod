@@ -1,0 +1,243 @@
+.jaja {
+    font-weight: 600;
+    letter-spacing: 0.38px;
+}
+
+.topWrap {
+    display: flex;
+}
+
+.topWrap_avaWrapper {
+    padding-top: 12px;
+    padding-left: 12px;
+    width: 84px;
+    box-sizing: border-box
+}
+.topWrap_avaWrapper_ava {
+    height: 72px;
+    width: 72px;
+    background: #F2F3F5;
+    border: 0.5px solid rgba(0, 0, 0, 0.12);
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    overflow: hidden;
+    position: relative
+
+}
+.topWrap_avaWrapper_ava img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.topWrap_avaWrapper_ava_Icon56Gallery {
+    color :rgba(63, 138, 224, 1);
+}
+.topWrap_avaWrapper_ava_Icon24DismissOverlay {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    background: #99A2AD;
+    color: #FFFFFF;
+    border-radius: 100%;
+}
+
+.Fl {
+    width: 100%
+}
+
+.placeholder {
+    padding: 32px;
+    text-align: center;
+}
+.placeholder_header {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.38px;
+}
+.placeholder_descr {
+    letter-spacing: -0.32px;
+    color: #818C99;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+}
+
+.Title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 12px;
+}
+
+.Bottom_Bar {
+    margin-bottom: 10px;
+}
+
+.audio_wrap {
+    margin-top: 34px;
+    margin-left: 12px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.audio_wrap_Ava {
+    width: 48px;
+    height: 48px;
+    background: #F2F3F5;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.audio_wrap_Title {
+    padding-left: 12px;
+}
+
+.audio_wrap_Time {
+margin-left: auto;
+font-size: 13px;
+line-height: 16px;
+color: #99A2AD;
+}
+
+.ButtonWrap {
+    margin-top: -4px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 22px;
+}
+
+.WrapperEdit {
+    height: 186px;
+    margin-top: 13.67px;
+    margin-left: 12px;
+    margin-right: 12px;
+    border: 0.5px solid #D7D8D9;
+    box-sizing: border-box;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.WrapperEdit_timeline {
+    height: 26px;
+    background: #F2F3F5;
+}
+.WrapperEdit_cerf {
+    height: 96px;
+    background: #F2F3F5;
+    opacity: 0.3
+}
+.WrapperEdit_cyka {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.timecodes {
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    transition: All 0.3s ease;
+}
+.timecodes:active {
+    background: #ebebeb
+}
+
+.timecodes_title {
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -0.32px;
+    color: #3F8AE0;
+    padding-left: 12px;
+}
+
+.allwrapperbitches {
+    padding-left: 14px;
+    display: flex;
+    flex-direction: column;
+}
+.topWrapBitch {
+    display: flex;
+    align-items: center;
+    margin-bottom: 13px;
+}
+.bitch {
+    height: 22px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #000000;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+
+.groupBitch {
+    height: 14px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #4986CC;
+    margin-bottom: 6px;
+    
+}
+
+.dlitBitch {
+    font-size: 12px;
+    line-height: 14px;
+    color: #818C99;
+    height: 14px;
+}
+
+.cockWrapper {
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12.5px;
+    margin-bottom: 18px;
+}
+
+.niceCock {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #000000;
+}
+.suck {
+    margin-bottom: 23px;
+}
+
+.awesomeDick {
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.24px;
+    margin-top: 13px;
+}
+
+.master {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.35);
+    border-radius: 100px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pidoras {
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    margin-bottom: 28px;
+}
+.pisos {
+    color: #4986CC;
+}
